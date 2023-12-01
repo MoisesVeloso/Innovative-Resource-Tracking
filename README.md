@@ -61,7 +61,9 @@ These are the following Login Information
 >to your IP Address for the form to be accessible to user
 >
 >### How to check your IP Address?
->   Open terminal/CMD and type __"ipconfig"__
+>Open terminal/CMD and type __"ipconfig"__
+>>Look for **IPv4 Address** and copy the IP Address and change the __"10.0.9.253"__ to your IP Address
+
 
 ## Generate Equipment's QR Code
 
