@@ -38,7 +38,7 @@ It will open the login page by default
 These are the following Login Information
 
 >[!NOTE]
->## Username
+>### Username
 >
 >cetuser
 >
@@ -50,6 +50,17 @@ These are the following Login Information
 >
 >chsuser
 >
->## Password
+>### Password
 >Default Password: ***1111***
+
+>[!IMPORTANT]
+>Look for **qrcode.php** and open using notepad or any IDE and change this line of code 
+>
+>**Link: 10.0.9.253** __(EXAMPLE: 192.168.1.1)__
+>
+>to your IP Address for the form to be accessible to user
+
+## Generate Equipment's QR Code
+
+When generating QR Code, the page will reload but the URL in browser will reflect that the QR Code is generated
   
