@@ -74,5 +74,6 @@ When generating QR Code, the page will reload but the URL in browser will reflec
 
 Open **'htdocs'** and navigate to **'qrcodes'** folder to access the qrcode that is generated
 
-Use QR Code Scanner >[!NOTE]
+Use QR Code Scanner 
+>[!NOTE]
 >Some QR Code Scanner doenst have the capability identify **links**
