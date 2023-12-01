@@ -37,17 +37,17 @@ It will open the login page by default
 
 These are the following Login Information
 
-> [!Note]
+> [!NOTE]
 
-cetuser
+>cetuser
 
-cbauser
+>cbauser
 
-ccjuser
+>ccjuser
 
-casuser
+>casuser
 
-chsuser
+>chsuser
 
 
 * Password
