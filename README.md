@@ -37,7 +37,7 @@ It will open the login page by default
 
 These are the following Login Information
 
->[!TIP]
+>[!NOTE]
 >## Username
 >
 >cetuser
