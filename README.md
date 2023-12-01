@@ -66,6 +66,7 @@ These are the following Login Information
 
 >[!IMPORTANT]
 >**Xampp Control Panel __Apache and MySql_ should running**
+>
 >**USER MUST BE CONNECTED TO THE SAME NETWORK FOR THE APPLICATION TO WORK**
 
 
