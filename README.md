@@ -62,10 +62,17 @@ These are the following Login Information
 >
 >### How to check your IP Address?
 >Open terminal/CMD and type __"ipconfig"__
->>Look for **IPv4 Address** and copy the IP Address and change the __"10.0.9.253"__ to your IP Address
+>>Look for **IPv4 Address** and copy the address and change the __"10.0.9.253"__ to your IP Address
+
+>[!IMPORTANT]
+>**USER MUST BE CONNECTED TO THE SAME NETWORK FOR THE APPLICATION TO WORK**
 
 
 ## Generate Equipment's QR Code
 
 When generating QR Code, the page will reload but the URL in browser will reflect that the QR Code is generated
-  
+
+Open **'htdocs'** and navigate to **'qrcodes'** folder to access the qrcode that is generated
+
+Use QR Code Scanner >[!NOTE]
+>Some QR Code Scanner doenst have the capability identify **links**
