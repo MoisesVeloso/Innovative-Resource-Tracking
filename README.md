@@ -19,7 +19,9 @@
 3. Select the installation directory (usually C:\xampp).
 4. Complete the installation process by following the on-screen instructions.
 
-AFTER INSTALLING XAMPP, NAVIGATE TO THE **'htdocs'** FOLDER WITHIN XAMPP LOCATED AT **C:\xampp** AND DELETE THE CONTENT OF 'htdocs'.
+
+>[!IMPORTANT]  
+>AFTER INSTALLING XAMPP, NAVIGATE TO THE **'htdocs'** FOLDER WITHIN XAMPP LOCATED AT **C:\xampp** AND DELETE THE CONTENT OF 'htdocs'.
 
 Move the **Innovative Resource Tracking** to 'htdocs'
-
+  
