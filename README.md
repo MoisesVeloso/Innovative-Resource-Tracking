@@ -29,5 +29,5 @@ Move the **Innovative Resource Tracking** that you downloaded to 'htdocs'
 
 Open ***Xampp Control Panel*** and click start **Apache and MySql**
 
-Open any BROWSER (google chrome, microsoft edge, safari, and etc.) and type **localhost** and navigate to __Innovative Resource Tracking__ to open the website
+Open any BROWSER (google chrome, microsoft edge, safari, and etc.) and type **localhost/phpmyadmin** to open the **phpmyadmin** page to import the database that you downloaded.
   
