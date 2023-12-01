@@ -83,3 +83,5 @@ Open **'htdocs'** and navigate to **'qrcodes'** folder to access the qrcode that
 
 ## For Student
 1. Request equipment by going to **"ipaddress/Innovative-Resource-Tracking/index.php"** and click __Request__ navigation below the **LOGIN** button
+2. After completing the request, you can copy the **Reference Number** that is generated, and you can check the status of your request in **Check Request** navigation
+3. If your request has been __Approved__ you can proceed to your respective department to scan the QR Code of the equipment and use your **Reference Number** to enter your Information that you provided in __Request Form__
