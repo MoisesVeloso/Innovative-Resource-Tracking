@@ -25,5 +25,7 @@
 
 Move the **Innovative Resource Tracking** that you downloaded to 'htdocs'
 
-Open any 
+### How to use?
+
+Open any BROWSER (google chrome, microsoft edge, safari, and etc.) and type **localhost** and navigate to __Innovative Resource Tracking__ to open the website
   
