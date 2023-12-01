@@ -37,19 +37,15 @@ It will open the login page by default
 
 These are the following Login Information
 
-> [!NOTE]
-
+>[!NOTE]
+>## Username
+>
 >cetuser
-
 >cbauser
-
 >ccjuser
-
 >casuser
-
 >chsuser
-
-
-* Password
-_ default password is :1111
+>
+>## Password
+>Default Password: ***1111***
   
