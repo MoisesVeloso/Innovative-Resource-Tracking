@@ -65,6 +65,7 @@ These are the following Login Information
 >>Look for **IPv4 Address** and copy the address and change the __"10.0.9.253"__ to your IP Address
 
 >[!IMPORTANT]
+>**Xampp Control Panel __Apache and MySql_ should running**
 >**USER MUST BE CONNECTED TO THE SAME NETWORK FOR THE APPLICATION TO WORK**
 
 
@@ -76,6 +77,8 @@ Open **'htdocs'** and navigate to **'qrcodes'** folder to access the qrcode that
 
 ##
 
-Use QR Code Scanner 
 >[!NOTE]
 >Some QR Code Scanner doenst have the capability identify **links**
+
+## For Student
+1. Request equipment by going to **ipaddress**
