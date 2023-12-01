@@ -82,4 +82,4 @@ Open **'htdocs'** and navigate to **'qrcodes'** folder to access the qrcode that
 >Some QR Code Scanner doenst have the capability identify **links**
 
 ## For Student
-1. Request equipment by going to **"ipaddress/Innovative-Resource-Tracking/index.php"** and click _Request_ navigation below the **LOGIN** button
+1. Request equipment by going to **"ipaddress/Innovative-Resource-Tracking/index.php"** and click __Request__ navigation below the **LOGIN** button
