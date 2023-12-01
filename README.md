@@ -38,11 +38,17 @@ It will open the login page by default
 These are the following Login Information
 
 * Username
+
 _ cetuser
+
 _ cbauser
+
 _ ccjuser
+
 _ casuser
+
 _ chsuser
+
 
 * Password
 _ default password is :1111
