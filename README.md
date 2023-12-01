@@ -31,5 +31,5 @@ Open ***Xampp Control Panel*** and click start **Apache and MySql**
 
 Open any BROWSER (google chrome, microsoft edge, safari, and etc.) and type **localhost/phpmyadmin** to open the **phpMyAdmin** page to import the database that you downloaded.
 
-Open **localhost** and navigate to the **__Innovative Resource Tracking__** that you move to 'htdocs'
+Open **localhost** and navigate to the __Innovative Resource Tracking__ that you move to 'htdocs'
   
