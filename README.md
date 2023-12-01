@@ -56,9 +56,12 @@ These are the following Login Information
 >[!IMPORTANT]
 >Look for **qrcode.php** and open using notepad or any IDE and change this line of code 
 >
->**"Link: 10.0.9.253"**  <sub>double quote not included'</sub> __(EXAMPLE: 192.168.1.1)__
+>**"Link: 10.0.9.253"**  <sub>double quote not included'
 >
 >to your IP Address for the form to be accessible to user
+>
+>### How to check your IP Address?
+>   Open terminal/CMD and type __"ipconfig"__
 
 ## Generate Equipment's QR Code
 
