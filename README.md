@@ -86,5 +86,5 @@ Open **'htdocs'** and navigate to **'qrcodes'** folder to access the qrcode that
 2. After completing the request, you can copy the **Reference Number** that is generated, and you can check the status of your request in **Check Request** navigation
 3. If your request has been __Approved__ you can proceed to your respective department to scan the QR Code of the equipment and use your **Reference Number** to enter your Information that you provided in __Request Form__
 
-## For User of the System
+## For Custodian/User of the System
 1. Just go to **"Localhost"** in any browser and enter the credentials base on your department
